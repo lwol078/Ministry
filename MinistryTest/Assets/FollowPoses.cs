@@ -6,7 +6,7 @@ using System.Text;
 
 public class FollowPoses : MonoBehaviour {
 
-    struct Pose
+    public struct Pose
     {
         public float rightLegUpper;
         public float rightLegLower;
